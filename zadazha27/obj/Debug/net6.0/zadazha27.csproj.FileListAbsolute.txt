@@ -1,0 +1,15 @@
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\bin\Debug\net6.0\zadazha27.exe
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\bin\Debug\net6.0\zadazha27.deps.json
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\bin\Debug\net6.0\zadazha27.runtimeconfig.json
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\bin\Debug\net6.0\zadazha27.dll
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\bin\Debug\net6.0\zadazha27.pdb
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.csproj.AssemblyReference.cache
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.AssemblyInfoInputs.cache
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.AssemblyInfo.cs
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.csproj.CoreCompileInputs.cache
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.dll
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\refint\zadazha27.dll
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.pdb
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\zadazha27.genruntimeconfig.cache
+C:\Users\GS-5\Desktop\c# homework3\zadazha27\obj\Debug\net6.0\ref\zadazha27.dll
